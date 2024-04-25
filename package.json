@@ -1,0 +1,102 @@
+{
+  "name": "cafyb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@david.kucsai/react-pdf-table": "^0.4.1",
+    "@mantine/carousel": "^7.7.1",
+    "@mantine/charts": "^7.7.1",
+    "@mantine/code-highlight": "^7.7.1",
+    "@mantine/core": "^7.7.1",
+    "@mantine/dates": "^7.7.1",
+    "@mantine/dropzone": "^7.7.1",
+    "@mantine/form": "^7.7.1",
+    "@mantine/hooks": "^7.7.1",
+    "@mantine/modals": "^7.7.1",
+    "@mantine/notifications": "^7.7.1",
+    "@mantine/nprogress": "^7.7.1",
+    "@mantine/spotlight": "^7.7.1",
+    "@mantine/tiptap": "^7.7.1",
+    "@react-pdf/renderer": "^3.4.2",
+    "@reactour/tour": "^3.6.1",
+    "@tabler/icons-react": "^3.1.0",
+    "@tanstack/react-query": "^5.25.0",
+    "@tanstack/react-table": "^8.13.2",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@tiptap/extension-link": "^2.2.6",
+    "@tiptap/react": "^2.2.6",
+    "@tiptap/starter-kit": "^2.2.6",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.87",
+    "@types/react-dom": "^18.2.21",
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.2",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "cookies-next": "^4.1.1",
+    "date-fns": "^3.5.0",
+    "dayjs": "^1.11.10",
+    "embla-carousel-react": "^8.0.1",
+    "formik": "^2.4.5",
+    "framer-motion": "^11.0.8",
+    "i18next": "^23.10.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "lucide-react": "^0.350.0",
+    "mantine-react-table": "^2.0.0-beta.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-date-range": "^2.0.0-alpha.4",
+    "react-day-picker": "^8.10.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
+    "react-hook-form": "^7.51.1",
+    "react-i18next": "^14.1.0",
+    "react-icofont": "^1.0.19",
+    "react-images-uploading": "^3.1.7",
+    "react-scripts": "5.0.1",
+    "react-toggle-dark-mode": "^1.1.1",
+    "recharts": "^2.12.4",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "zod": "^3.22.4"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "@faker-js/faker": "^8.4.1",
+    "@iconify/react": "^4.1.1",
+    "@types/react": "^18.2.64",
+    "@types/uuid": "^9.0.8",
+    "react-router-dom": "^6.22.3",
+    "tailwindcss": "^3.4.1"
+  }
+}
